@@ -102,3 +102,25 @@ A tesztek Windows-os környzetben készültek.
 
 > ### **2. Cím és alcím tesztelése**
 >    * A cím és alcím reszponzivitásának ellenőrzése különböző szélességű készülékeken.
+
+      <div class="cim">
+          <h1>Rólunk</h1>
+          <h3>Instituendi</h3>
+      </div>
+     
+*A cím egy h1-es, az alcím pedig egy h3-as HTML tag-et kapott. Ezt egy külön div-be rendeztük, így könnyebb volt megszerkeszteni a stíluslapját.*
+
+**A címek reszponzivitása 1920px szélesség esetén:**
+
+![A címek reszponzivitása 1920px](/Images/Title1.png "A címek reszponzivitása 1920px")
+
+**A címek reszponzivitása 960px szélesség esetén:**
+
+![A címek reszponzivitása 960px](/Images/Title2.png "A címek reszponzivitása 960px")
+
+**A címek reszponzivitása mobilon:**
+
+![A címek reszponzivitása mobilon](/Images/Title3.png "A címek reszponzivitása mobilon")
+
+*A fenti képeken is látható, hogy a címek megfelelően alkalmazkodnak a méretváltozáshoz, így minden méretben jól olvashatóak és nem takarnak bele más képbe vagy szövegbe.*
+
