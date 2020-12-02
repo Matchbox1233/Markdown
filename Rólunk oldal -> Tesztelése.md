@@ -57,10 +57,7 @@ A tesztek Windows-os környzetben készültek.
 
 > 1. Menüsor tesztelés
 >    * Az egér mutató hatására milyen stílsú lesz az adott gomb a menüsoron. Az adott menü gombok megfelelő oldalakra mutatnak e, illetve a navigációs menü reszponzivitása különböző méretű készülékekre.
-' '  
-' '  
-' '  
-' '  
+
 **A navigációs menüsor alapesetben:**
 ![Navbar alap állpota](/Images/Navbar1.png "Navbar alap állpota")
 
@@ -101,3 +98,6 @@ A tesztek Windows-os környzetben készültek.
 ![Navbar reszponzivitása mobilon](/Images/Navbar6.png "Navbar reszponzivitása mobilon")
 
 *Ebben az esetben is látszik, hogy a bal oldalon az oszlopos elrendezésben vannak a menüpontok. Ezt a módszert alkalmaztuk az 1200px vagy attól kisebb szélességű kijelzők esetén.
+
+> 2. Cím és alcím tesztelése
+>    * A cím és alcím reszponzivitásának ellenőrzése különböző szélességű készülékeken.
