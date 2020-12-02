@@ -60,3 +60,21 @@ A tesztek Windows-os környzetben készültek.
 
 A navigációs menüsor alapesetben:
 ![Navbar alap állpota](/Images/Navbar1.png "Navbar alap állpota")
+
+A navigációs menüsor aktív kurzor esetén:
+![Navbar állpota aktív kurzor esetén](/Images/Navbar2.png "Navbar állpota aktív kurzor esetén")
+
+A fenti két képen jól látszik a különbség. Amíg csak alap esetben van a navigációs sor, addig minden menüpont ugyanúgy jelenik meg, tehát nincs méretbeli és színbeli eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiemelkedik, a többi menü addig halványabbá válik. Látszódik rajta egy animáció a kattintás előtt.
+
+Menüpontok beállításai a megfelelő oldalkra:
+
+    <ul>
+      <li><a href="../forum.php">Fórum</a></li>
+      <li><a href="../kapcsolat_oldal/kapcsolat.html">Kapcsolat</a></li>
+      <li><a href="../szolgaltatasok_osszessege_weboldal/szolgaltatasok.html">Szolgáltatások</a></li>
+      <li><a href="../rounk_oldal/rolunk.html">Rólunk</a></li>
+      <li><a href="../belepes.php">Belépés</a></li>
+      <li><a href="../regisztracio.php">Regisztráció</a></li>
+     </ul>
+
+A fenti kódrészletben láthatjuk a menüsor forrásának egy részét. Itt határozzuk meg, hogy melyik menüpont melyik oldalra visz minket. Mint láthatjuk minden gomb a hozzá tartozó oldalra mutat. Minden oldal külön mappában található, az egyértelműség miatt.
