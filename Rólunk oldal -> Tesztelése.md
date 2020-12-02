@@ -57,9 +57,10 @@ A tesztek Windows-os környzetben készültek.
 
 > 1. Menüsor tesztelés
 >    * Az egér mutató hatására milyen stílsú lesz az adott gomb a menüsoron. Az adott menü gombok megfelelő oldalakra mutatnak e, illetve a navigációs menü reszponzivitása különböző méretű készülékekre.
-&nbsp;
-&nbsp;
-&nbsp;
+' '  
+' '  
+' '  
+' '  
 **A navigációs menüsor alapesetben:**
 ![Navbar alap állpota](/Images/Navbar1.png "Navbar alap állpota")
 
