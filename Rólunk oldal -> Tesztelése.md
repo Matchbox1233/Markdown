@@ -294,6 +294,73 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 
 
 
+> ### 5. Jobb oldali kör alakú képekek tesztelése
+>    * Méretváltozás esetén ellenőrizzük, hogy a képek megtartják e az adott helyüket. A kisebb képernyők esetében alkalmazkodnak e az új mérethez (segítik e a felhasználó tájékozódását mobil eszközökön is, tehát nem takarnak ki szöveget és nem lesznek túl nagyok). Mindig kisebbnek és a jobb oldal kell lenniük, kivéve ha a méretcsökkenés megköveteli a helyes átrendeződést.
+
+
+
+
+*A képeket egy kör alapba raktuk bele, ez a stílus jobban illik a weboldalhoz, kedvesebb és látványosabb is. A képek helyzete mindvégigi a jobb oldalon marad, de a kisebb méretű képernyőknél (főleg mobilkijelzők esetén) a képek mellett már nem található szöveg, a képek egymás alá kerülnek. Így a felhasználók szebben láthatják a képet és a szöveget, mert ha ezt nem tennénk meg, akkor a kép szétszabdalná a szöveget úgy, hogy az éretelmetlenné válna.*
+
+**Az alábbi kódrészlettel formáztuk meg és illesztettük a helyére a képet:**
+
+
+
+      /* JOBB KÉP DOBOZ */
+
+      .kor.kor2 {
+          width: 300px;
+          height: 300px;
+          float: right;
+          border-radius: 50%;
+          margin: 20px;
+          shape-outside: circle();
+          transition: 0.2s;
+      }
+      
+      
+      
+       /* JOBB KÉP ILLESZTÉS */
+
+      .kor.kor2 img {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+      }
+
+
+
+**Jobb oldali körképek reszponzivitása 1920px szélesség esetén:**
+
+
+![Jobb oldali körképek reszponzivitása 1920px](/Images/Right1.png "Jobb oldali körképek reszponzivitása 1920px")
+
+
+*Itt a kép igazodik a nagy mérethez, azért ilyen nagy a mérete.**
+
+
+**Jobb oldali körképek reszponzivitása 960px szélesség esetén:**
+
+
+![Jobb oldali körképek reszponzivitása 960px](/Images/Right2.png "Jobb oldali körképek reszponzivitása 960px")
+
+
+*Itt már látszik, hogy arányosan összébmegy a kép, igazodik az adott ablak méretéhez.*
+
+
+**Jobb oldali körképek reszponzivitása reszponzivitása mobilon:**
+
+
+![Jobb oldali körképek reszponzivitása mobilon](/Images/Right3.png "Jobb oldali körképek reszponzivitása mobilon")
+
+
+*Megvalósul a reszponzivitás, a képek egymás alá kerültek, ez volt a legjobb megoldás, hogy láthatóak is maradjanak, de a szöüveget se tördeljék el.*
+
+
+
 
 
 
