@@ -1,3 +1,4 @@
+# Rólunk oldal tesztelése
 ## 1. Tesztterv
 
 1. Menüsor tesztelés
@@ -55,7 +56,7 @@ A tesztek Windows-os környzetben készültek.
 
 ## 3. Tesztek Végrehajtása
 
-> ## **1. Menüsor tesztelés**
+> ### **1. Menüsor tesztelés**
 >    * Az egér mutató hatására milyen stílsú lesz az adott gomb a menüsoron. Az adott menü gombok megfelelő oldalakra mutatnak e, illetve a navigációs menü reszponzivitása különböző méretű készülékekre.
 
 **A navigációs menüsor alapesetben:**
@@ -99,5 +100,5 @@ A tesztek Windows-os környzetben készültek.
 
 *Ebben az esetben is látszik, hogy a bal oldalon az oszlopos elrendezésben vannak a menüpontok. Ezt a módszert alkalmaztuk az 1200px vagy attól kisebb szélességű kijelzők esetén.*
 
-> ## **2. Cím és alcím tesztelése**
+> ### **2. Cím és alcím tesztelése**
 >    * A cím és alcím reszponzivitásának ellenőrzése különböző szélességű készülékeken.
