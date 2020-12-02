@@ -59,4 +59,4 @@ A tesztek Windows-os környzetben készültek.
 >    * Az egér mutató hatására milyen stílsú lesz az adott gomb a menüsoron. Az adott menü gombok megfelelő oldalakra mutatnak e, illetve a navigációs menü reszponzivitása különböző méretű készülékekre.
 
 A navigációs menüsor alapesetben:
-![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
+![Navbar alap állpota](/Images/Navbar1.png "Navbar alap állpota")
