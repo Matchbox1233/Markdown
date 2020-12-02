@@ -361,7 +361,36 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 
 
 
+> ### **6. Bekezdés címek tesztelése**
+>    * Ellenőrizzük a bekezdés címeket, hogy az adott méretváltozásra helyesen váltanak méretet, főként a mobil eszközökre. Az olvashatóság és a weboldal könnyű használata miatt. A cím ne takajon el szöveget illetve ne csússzon el az oldalon méretváltoztatás miatt.
 
+
+
+**Bekezdés címek reszponzivitása 1920px szélesség esetén:**
+
+
+![Bekezdés címek reszponzivitása 1920px](/Images/TextT1.png "Bekezdés címek reszponzivitása 1920px")
+
+
+*Jól látható, hogy a szövegnek bőven van elég hely, könnyen olvasható, Szépen igazodik a kör alakú képekhez, tartja a távolságot tőlük. Ez igaz a címre is.**
+
+
+**Bekezdés címek reszponzivitása 960px szélesség esetén:**
+
+
+![Bekezdés címek reszponzivitása 960px](/Images/TextT2.png "Bekezdés címek reszponzivitása 960px")
+
+
+*Itt a szöveg már jól kitölti a teret, de az oldal még mindig elég szellős, átlátható. A betűméretek nem változtak.*
+
+
+**Bekezdés címek reszponzivitása reszponzivitása mobilon:**
+
+
+![Bekezdés címek reszponzivitása mobilon](/Images/TextT3.png "Bekezdés címek reszponzivitása mobilon")
+
+
+*A szöveg kitölti a teret, mint egy hosszú egybefuggő csíkot képez, de ez a mobiloknál nem meglepő, hiszen így marad olvasható az oldal. Ebben az esetben a képek a címek elé,. illetve a szövegek után kerülnek elhelyezésre*
 
 
 
