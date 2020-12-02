@@ -183,3 +183,54 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 
 
 
+> ### **3. A menüsor és a cím borítóképének tesztelése**
+>    * Ellenőrizzük a kép méretének arányos növekedését vagy csökkenését az adott eszköz méretéhez, így ellenőrizzük a reszponzivitását. A borító megfelelő helyzetben marad e a méretnövekedésne köszönhetően.
+
+
+**A borítókép reszponzivitása 1920px szélesség esetén:**
+
+
+![A borítókép reszponzivitása 1920px](/Images/Bground1.png "A borítókép reszponzivitása 1920px")
+
+
+
+*A fenti képen láthatjuk, hogy a képet nem tudjuk jobbra, ballra, fel vagy le mozgatni semmilyen eszköz segítségével, tehát a kép igazodik az adott eszköz képarányaihoz. Ezt az alábbi CSS kódrészlet segítette elő:*
+
+
+
+      .borito {
+          display: grid;
+          height: 50vh;
+          transition: 0.5s;
+          width: 100%;
+          position: relative;
+          background-image: url("../../../resources/images/rolunk_oldal_images/rolunkborito.jpg");
+          background-repeat: no-repeat;
+          background-position: center;
+          background-size: cover;
+      }
+
+
+**A borítókép reszponzivitása 960px szélesség esetén:**
+
+
+![A borítókép reszponzivitása 960px](/Images/Bground2.png "A borítókép reszponzivitása 960px")
+
+
+**A borítókép reszponzivitása reszponzivitása mobilon:**
+
+
+![A borítókép reszponzivitása mobilon](/Images/Bground3.png "A borítókép reszponzivitása mobilon")
+
+
+*A fenti képeken látszik, hogy a böngésző, a képből mindig egy közelített részletet mutat, ahogy megyünk az egyre kisebb szélességek felé, úgy a kép közepét látjuk, ezt a CSS-ben lehet állítani. Ez persze sokmindentől függ, hogy a készítő, hogyan állítja be a hátteret. Egyik méretben sem tudjuk a képet görgetni vagy csúsztatni bármely irányba, tehát sikerült a reszponzivitás.*
+
+
+
+
+
+
+
+
+
+
