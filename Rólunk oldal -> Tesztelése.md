@@ -58,6 +58,10 @@ A tesztek Windows-os környzetben készültek.
 > 1. Menüsor tesztelés
 >    * Az egér mutató hatására milyen stílsú lesz az adott gomb a menüsoron. Az adott menü gombok megfelelő oldalakra mutatnak e, illetve a navigációs menü reszponzivitása különböző méretű készülékekre.
 
+
+
+
+
 **A navigációs menüsor alapesetben:**
 ![Navbar alap állpota](/Images/Navbar1.png "Navbar alap állpota")
 
@@ -79,22 +83,22 @@ A tesztek Windows-os környzetben készültek.
 
 *A fenti kódrészletben láthatjuk a menüsor forrásának egy részét. Itt határozzuk meg, hogy melyik menüpont melyik oldalra visz minket. Mint láthatjuk minden gomb a hozzá tartozó oldalra mutat. Minden oldal külön mappában található, az egyértelműség miatt.
 
-Menüsor reszponzivitása 1920px szélesség esetén:
+**Menüsor reszponzivitása 1920px szélesség esetén:
 
 ![Navbar reszponzivitása 1920px](/Images/Navbar3.png "Navbar reszponzivitása 1920px")
 
-Láthatjuk, hogy a menüsor teljesen használható, nem csúszik el, nem megy össze. Pontosan a helyén marad.
+*Láthatjuk, hogy a menüsor teljesen használható, nem csúszik el, nem megy össze. Pontosan a helyén marad.
 
-Menüsor reszponzivitása 960px szélesség esetén:
+**Menüsor reszponzivitása 960px szélesség esetén:
 
 ![Navbar reszponzivitása 960px](/Images/Navbar4.png "Navbar reszponzivitása 960px")
 
 ![Navbar reszponzivitása 960px](/Images/Navbar5.png "Navbar reszponzivitása 960px")
 
-Láthatjuk, hogy a navigációs sor eltűnt és csak egy gomb van a helyén (első kép). A gomb nyomása esetén bal oldalt felbukkan a menüsor (második kép) csak most már oszlopos alakban, nem pedig sorban. Ezzel a módszerrel könnyen alkalmazkodhatunk különböző kijelzőkhöz is, mint például a mobil kijelzők. Ebben az esetben is érvényesül, hogy a menüsor minden pontja látszik, de ha rávisszük az egyik pontra az egeret, akkor az adott pont kiemelkedik, létrejön az animáció. A többi gomb pedig addig elhalványul.
+*Láthatjuk, hogy a navigációs sor eltűnt és csak egy gomb van a helyén (első kép). A gomb nyomása esetén bal oldalt felbukkan a menüsor (második kép) csak most már oszlopos alakban, nem pedig sorban. Ezzel a módszerrel könnyen alkalmazkodhatunk különböző kijelzőkhöz is, mint például a mobil kijelzők. Ebben az esetben is érvényesül, hogy a menüsor minden pontja látszik, de ha rávisszük az egyik pontra az egeret, akkor az adott pont kiemelkedik, létrejön az animáció. A többi gomb pedig addig elhalványul.
 
-Menüsor reszponzivitása mobilon:
+**Menüsor reszponzivitása mobilon:
 
 ![Navbar reszponzivitása mobilon](/Images/Navbar6.png "Navbar reszponzivitása mobilon")
 
-Ebben az esetben is látszik, hogy a bal oldalon az oszlopos elrendezésben vannak a menüpontok. Ezt a módszert alkalmaztuk az 1200px vagy attól kisebb szélességű kijelzők esetén.
+*Ebben az esetben is látszik, hogy a bal oldalon az oszlopos elrendezésben vannak a menüpontok. Ezt a módszert alkalmaztuk az 1200px vagy attól kisebb szélességű kijelzők esetén.
