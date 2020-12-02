@@ -4,6 +4,11 @@
 1. Menüsor tesztelés
     * Az egér mutató hatására milyen stílsú lesz az adott gomb a menüsoron. Az adott menü gombok megfelelő oldalakra mutatnak e, illetve a navigációs menü reszponzivitása különböző méretű készülékekre.
     
+    
+    
+    
+    
+    
 2. Cím és alcím tesztelése
     * A cím és alcím reszponzivitásának ellenőrzése különböző szélességű készülékeken.
 
