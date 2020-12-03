@@ -428,3 +428,52 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 
 
 
+
+> ### **8. Elválasztó vonal tesztelése**
+>    * A vonal mindig a bekezdések alatt és a lábrész felett helyezkedik el. Megnézzük, hogy a vonal nem csúszik e el, vagy, hogy végig ér az adott oldalon különböző méretek mellett.
+
+
+
+**Elválasztó vonal reszponzivitása 1920px szélesség esetén:**
+
+
+![Elválasztó vonal reszponzivitása 1920px](/Images/Line1.png "Elválasztó vonal reszponzivitása 1920px")
+
+
+*Láthatjuk, hogy a vonal a bal oldaltól a jobb oldalig rat végig. Ez egy összetett vonal a stílusát tekintve, hiszen a felső színt mi adjuk meg, de az alsót azt a CSS alkotja meg. Az eredeti szín egy sötétebb változatát csinálja meg. *
+
+**A fent említett CSS ódrészlet:**
+
+
+      footer {
+
+          border-top-style: ridge;
+          border-top-color: rgb(104, 184, 206);
+          border-width: 0.5rem;
+          display: grid;
+          grid-template-columns: 33.33% 33.33% 33.33%;
+          grid-template-rows: repeat(auto, 4);
+          grid-template-areas: "info about message" "efekt efekt efekt" "social social social" "term term term";
+          height: 100%;
+          padding-top: 3%;
+
+      }
+
+
+**Elválasztó vonal reszponzivitása 960px szélesség esetén:**
+
+
+![Elválasztó vonal reszponzivitása 960px](/Images/Line2.png "Elválasztó vonal reszponzivitása 960px")
+
+
+*A vonal itt is szépen végig ér az oldalon. Tartja a távolságot a felette lévő szövegtől és az alatt lécő címtől is.*
+
+
+**Elválasztó vonal reszponzivitása reszponzivitása mobilon:**
+
+
+![Elválasztó vonal reszponzivitása mobilon](/Images/Line3.png "Elválasztó vonal reszponzivitása mobilon")
+
+*A vonal mobil kijelzőn is szépen látható, itt is tartja az ablak szélességet. Az alatta és a felette lévő részek közötti távolság nyilván csökkent, de így is átlátható és kivehető minden információ az oldalról.
+
+
