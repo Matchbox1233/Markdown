@@ -399,8 +399,32 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 >    * Megnézzük a bekezdések reszponzivitását. Az ablak méretének csökkenésével tudjuk ellenőrizni, hogy adott méretekben, a szöveg nem lóg e bele a képekbe, valamint helyesen lesz e törrdelve.
   
   
-  
-*A szöveg kitölti a teret, mint egy hosszú egybefuggő csíkot képez, de ez a mobiloknál nem meglepő, hiszen így marad olvasható az oldal. Ebben az esetben a képek a címek elé,. illetve a szövegek után kerülnek elhelyezésre*  
+ 
+**Bekezdések reszponzivitása 1920px szélesség esetén:**
+
+
+![Bekezdések reszponzivitása 1920px](/Images/Paragraph1.png "Bekezdések reszponzivitása 1920px")
+
+
+*A képen is látható, hogy a szüveg szépen eloszlik a képernyőn, azonos távolságot tart a képektől és a bekezdés címektől is.*
+
+
+**Bekezdések reszponzivitása 960px szélesség esetén:**
+
+
+![Bekezdések reszponzivitása 960px](/Images/Paragraph2.png "Bekezdések reszponzivitása 960px")
+
+
+*A szöveg már jobban kitölti a teret, mivel az balak mérete csökkent. Így a szöveg szépen a képek alá is kerül, ezzel növelve az olvashatóságot. Itt is megvan a fix távolság a képektől és a címektől iy, valamint az oldal szélétől.*
+
+
+**Bekezdések reszponzivitása reszponzivitása mobilon:**
+
+
+![Bekezdések reszponzivitása mobilon](/Images/Paragraph3.png "Bekezdések reszponzivitása mobilon")
+ 
+ 
+*A szöveg kitölti a teret, mint egy hosszú egybefuggő csíkot képez, de ez a mobiloknál nem meglepő, hiszen így marad olvasható az oldal. Ebben az esetben a képek a szövegek elé kerülnek elhelyezésre, így biztosítják az olvashatóságot.*  
 
 
 
