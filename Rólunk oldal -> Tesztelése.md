@@ -700,3 +700,7 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 *A mobil verzión is jól láthatóak a gombok, nem csúsznak el, illetve még mindig középen helyezkednek el.*
 
 
+
+
+## 3. Eredmények értékelése
+
