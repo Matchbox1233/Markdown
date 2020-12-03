@@ -602,17 +602,16 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 **Social links felirat reszponzivitása 1920px szélesség esetén:**
 
 
-![Social links felirat reszponzivitása 1920px](/Images/Email1.png "Social links felirat reszponzivitása 1920px")
+![Social links felirat reszponzivitása 1920px](/Images/SocialL1.png "Social links felirat reszponzivitása 1920px")
 
 
 *Az oldal végén található elválasztó design vonal. *
 
 
-
 **Social links felirat reszponzivitása 960px szélesség esetén:**
 
 
-![Social links felirat reszponzivitása 960px](/Images/Email2.png "Social links felirat reszponzivitása 960px")
+![Social links felirat reszponzivitása 960px](/Images/SocialL2.png "Social links felirat reszponzivitása 960px")
 
 
 *Itt már életbe lép az oszlopos felállás. A lépjen kapcsolatba velünk került alulra, hiszen ez volt a jobb szélső a sorban. Ebben a helyzetben a cím, a két box és a neveik  is megfelelő távolságra vannak egymástól és persze a képernyő szélétől is. Ebben a helyzetben középre vannak helyzve, így stílusosabb az oldal.*
@@ -621,7 +620,7 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 **Social links felirat reszponzivitása mobilon:**
 
 
-![Social links felirat reszponzivitása mobilon](/Images/Email3.png "Social links felirat reszponzivitása mobilon")
+![Social links felirat reszponzivitása mobilon](/Images/SocialL3.png "Social links felirat reszponzivitása mobilon")
 
 
 *Mobil kijelzőn is remekül lehet használni a lépjen kapcsolatba velünk részt. A két box és a neveik is megfelelő távolságot tartanak a gombtól és a címtől. Az oldal ezen része sem takar vagy torzít bele más részekbe.*
