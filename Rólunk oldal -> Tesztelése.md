@@ -605,7 +605,7 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![Social links felirat reszponzivitása 1920px](/Images/SocialL1.png "Social links felirat reszponzivitása 1920px")
 
 
-*Az oldal végén található elválasztó design vonal. *
+*Az oldal végén található elválasztó design vonal és szöveg. Egy kicsit megtöri a háttér egyhangú színét, ezzel hívja fel a felhasználó figyelmét az alatta lécő ikonokra. A csík nem megy végig az oldalon azaz nem tart a baloldaltól egészen a jobb oldalig.*
 
 
 **Social links felirat reszponzivitása 960px szélesség esetén:**
@@ -614,7 +614,7 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![Social links felirat reszponzivitása 960px](/Images/SocialL2.png "Social links felirat reszponzivitása 960px")
 
 
-*Itt már életbe lép az oszlopos felállás. A lépjen kapcsolatba velünk került alulra, hiszen ez volt a jobb szélső a sorban. Ebben a helyzetben a cím, a két box és a neveik  is megfelelő távolságra vannak egymástól és persze a képernyő szélétől is. Ebben a helyzetben középre vannak helyzve, így stílusosabb az oldal.*
+*Ekkora szélességnél látszi, hogy a vonal és a szöveg kisebb lett, hiszen a képernyő mérete is kisebb lett.*
 
 
 **Social links felirat reszponzivitása mobilon:**
@@ -623,8 +623,47 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![Social links felirat reszponzivitása mobilon](/Images/SocialL3.png "Social links felirat reszponzivitása mobilon")
 
 
-*Mobil kijelzőn is remekül lehet használni a lépjen kapcsolatba velünk részt. A két box és a neveik is megfelelő távolságot tartanak a gombtól és a címtől. Az oldal ezen része sem takar vagy torzít bele más részekbe.*
+*Ilyen kis méretben erre a csíkra már nincs szükség, a felirat elég, hogy felkeltse a felhasználó figyelmét.*
 
 
+
+> ### **13. Social ikonok tesztelése**
+>    * Az ikonok animációjának tesztelése minden méretben, illetve az ikonok elhelyezése a hátterükön megfelelő e.
+
+
+**Social ikonok reszponzivitása 1920px szélesség esetén:**
+
+
+![Social ikonok reszponzivitása 1920px](/Images/SocialI1.png "Social ikonok reszponzivitása 1920px")
+
+
+*Az közösségi médiához vezető gombok az oldal majdnem legalján találhatóak. Ezek a gombok vezteik át a felhasználót az SZFM cég közösségi oldalira. A gombok egy forgás animációt kaptak, ami elég stílusos az ilyen megjelenéshez. A gombok és a bennük lévő ikonok egymáson helyezkednek el és persze az egész gomb sor középen található.*
+
+
+**Social ikonok reszponzivitása 960px szélesség esetén:**
+
+
+![Social ikonok reszponzivitása 960px](/Images/SocialI2.png "Social ikonok reszponzivitása 960px")
+
+
+*Ahogy a szélesség csükken nyilván a gombok mérete is úgy csökken szabályosan.*
+
+
+**Social ikonok reszponzivitása mobilon:**
+
+
+![Social ikonok reszponzivitása mobilon](/Images/SocialI3.png "Social ikonok reszponzivitása mobilon")
+
+
+*A gombok mobil méretben is használhatóak, az animáció is működik rajtuk minden méretben.*
+
+
+**Social ikonok animációja:**
+
+
+![Social ikonok reszponzivitása mobilon](/Images/SocialI4.png "Social ikonok reszponzivitása mobilon")
+
+
+*Amint a felhasználó rávitte az egeret a gombra, az elkezd pörögni, majd leáll, de a hátterer kicsit megváltozik, ezt láthatjuk is  fneti képen.*
 
 
