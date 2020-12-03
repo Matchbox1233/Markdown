@@ -552,3 +552,43 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![Fedezze fel a szolgáltatásainkat gomb animációja](/Images/Services4.png "Fedezze fel a szolgáltatásainkat gomb animációja")
 
 
+> ### **11. Lépjen kapcsolatba velünk tesztelése**
+>    * A szövegdobozok méretének és helyzetének ellenőrzése, valamint a felszólító üzenet helyessége minden méret esetén. A gomb stílusa és reszponzivitása.
+
+
+
+**Lépjen kapcsolatba velünk reszponzivitása 1920px szélesség esetén:**
+
+
+![Lépjen kapcsolatba velünk reszponzivitása 1920px](/Images/Email1.png "Lépjen kapcsolatba velünk reszponzivitása 1920px")
+
+
+*Az úgynevezett "lábrész" három részből áll, a lépjen kapcsolatba velünk a harmadik része, azaz a jobb szélső. A nagyobb képernyő méreteknél ez a három rész egymás mellett helyezkedik el, de kisebb részeknál már oszlopszerűen láthatjuk, a jobb olvashatóság kedvéért. Fontos, hogy a jobb szélső részben az email és az üzenet "boxa" ne lógjon túl vagy bele más részekbe, illetve a gomb is a megfelelően működjön. A gomb animálva van, ha rávisszük az egeret, akkor kicsit összébb megy és egy fehér "keret" (alul és felül egy vonal) jelenik meg rajta.*
+
+
+
+**Lépjen kapcsolatba velünk reszponzivitása 960px szélesség esetén:**
+
+
+![Lépjen kapcsolatba velünk reszponzivitása 960px](/Images/Email2.png "Lépjen kapcsolatba velünk reszponzivitása 960px")
+
+
+*Itt már életbe lép az oszlopos felállás. A lépjen kapcsolatba velünk került alulra, hiszen ez volt a jobb szélső a sorban. Ebben a helyzetben a cím, a két box és a neveik  is megfelelő távolságra vannak egymástól és persze a képernyő szélétől is. Ebben a helyzetben középre vannak helyzve, így stílusosabb az oldal.*
+
+
+**Lépjen kapcsolatba velünk reszponzivitása mobilon:**
+
+
+![Lépjen kapcsolatba velünk reszponzivitása mobilon](/Images/Email3.png "Lépjen kapcsolatba velünk reszponzivitása mobilon")
+
+
+*Mobil kijelzőn is remekül lehet használni a lépjen kapcsolatba velünk részt. A két box és a neveik is megfelelő távolságot tartanak a gombtól és a címtől. Az oldal ezen része sem takar vagy torzít bele más részekbe.*
+
+
+**Lépjen kapcsolatba velünk gomb animációja és a figyelmeztető szöveg:**
+
+
+![Lépjen kapcsolatba velünk reszponzivitása mobilon](/Images/Email4.png "Lépjen kapcsolatba velünk reszponzivitása mobilon")
+
+
+*A képen jól látható, hogy a figyelmeztető szöveg elég feltünő, így a felhasználó majd tudni fogja, hogy mit rontott el, és azt is, hogy hogyan tudja majd kijavítani a hibát.*
