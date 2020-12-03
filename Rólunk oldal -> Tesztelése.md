@@ -646,7 +646,7 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![Social ikonok reszponzivitása 960px](/Images/SocialI2.png "Social ikonok reszponzivitása 960px")
 
 
-*Ahogy a szélesség csükken nyilván a gombok mérete is úgy csökken szabályosan.*
+*Ahogy a szélesség csökken nyilván a gombok mérete is úgy csökken szabályosan.*
 
 
 **Social ikonok reszponzivitása mobilon:**
@@ -665,5 +665,38 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 
 
 *Amint a felhasználó rávitte az egeret a gombra, az elkezd pörögni, majd leáll, de a hátterer kicsit megváltozik, ezt láthatjuk is  fneti képen.*
+
+
+
+> ### **14. Terms | Privacy tesztelése**
+>    * Ellenőrizzük a két szó helyzetét és stílusát minden képernyőhöz.
+
+
+
+**Terms | Privacy reszponzivitása 1920px szélesség esetén:**
+
+
+![Terms | Privacy reszponzivitása 1920px](/Images/TermsP1.png "Terms | Privacy reszponzivitása 1920px")
+
+
+*Mint minden weboldalnak, nekünk is kellett cisnálnunk egy ilyen menüpontot. A szavak mindvégig a képernyő közepén helyezkednek el, arányosan csökkennek és nőnek az oldal átméretezésével. Ezt bizonyítják az alábbi képek*
+
+
+**Terms | Privacy reszponzivitása 960px szélesség esetén:**
+
+
+![Terms | Privacy reszponzivitása 960px](/Images/TermsP2.png "Terms | Privacy reszponzivitása 960px")
+
+
+*A szélességa  felére csökkent így a szavak mérete is, a stílusuk maradt ugyanolyan, nem csúsztak el egymás mellől*
+
+
+**Terms | Privacy reszponzivitása mobilon:**
+
+
+![Terms | Privacy reszponzivitása mobilon](/Images/TermsP3.png "Terms | Privacy reszponzivitása mobilon")
+
+
+*A mobil verzión is jól láthatóak a gombok, nem csúsznak el, illetve még mindig középen helyezkednek el.*
 
 
