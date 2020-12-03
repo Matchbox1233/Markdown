@@ -440,7 +440,7 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![Elválasztó vonal reszponzivitása 1920px](/Images/Line1.png "Elválasztó vonal reszponzivitása 1920px")
 
 
-*Láthatjuk, hogy a vonal a bal oldaltól a jobb oldalig rat végig. Ez egy összetett vonal a stílusát tekintve, hiszen a felső színt mi adjuk meg, de az alsót azt a CSS alkotja meg. Az eredeti szín egy sötétebb változatát csinálja meg. *
+*Láthatjuk, hogy a vonal a bal oldaltól a jobb oldalig rat végig. Ez egy összetett vonal a stílusát tekintve, hiszen a felső színt mi adjuk meg, de az alsót azt a CSS alkotja meg. Az eredeti szín egy sötétebb változatát csinálja meg.*
 
 **A fent említett CSS ódrészlet:**
 
@@ -474,6 +474,39 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 
 ![Elválasztó vonal reszponzivitása mobilon](/Images/Line3.png "Elválasztó vonal reszponzivitása mobilon")
 
-*A vonal mobil kijelzőn is szépen látható, itt is tartja az ablak szélességet. Az alatta és a felette lévő részek közötti távolság nyilván csökkent, de így is átlátható és kivehető minden információ az oldalról.
+*A vonal mobil kijelzőn is szépen látható, itt is tartja az ablak szélességet. Az alatta és a felette lévő részek közötti távolság nyilván csökkent, de így is átlátható és kivehető minden információ az oldalról.*
+
+
+
+> ### **9. Elérhetőség tesztelése**
+>    * Az ikonoknak mindig a z adott sor előtt kell állniuk, minden méret esetén. Valamint a szövegnek is igazodnia kell a kijelző méretekhez.
+
+
+
+**Elérhetőség reszponzivitása 1920px szélesség esetén:**
+
+
+![Elérhetőség reszponzivitása 1920px](/Images/Connect1.png "Elérhetőség vonal reszponzivitása 1920px")
+
+
+*Az úgynevezett "lábrész" három részből áll, az elérehetőség az első része, azaz a bal oldai. A nagyobb képernyő méreteknél ez a hérom rész egymás mellett helyezkedik el, de kisebb részeknál már oszlopszerűen láthatjuk, a jobb olvashatóság kedvéért. Fontos, hogy az ikonok mindig a szövegek lőtt álljanak, ne csússzanak vagy mozogjanak el.*
+
+
+
+**Elérhetőség reszponzivitása 960px szélesség esetén:**
+
+
+![Elérhetőség reszponzivitása 960px](/Images/Connect2.png "Elérhetőség reszponzivitása 960px")
+
+
+*Itt már életbe lép az oszlopos felállás. Az elérhetőség került legfelülre, hiszen ez volt a legszélső (az első). Ebben a helyzetben szabályosan középre kerül minden infomáció, ami az elérhetőségekben szerepel. Az ikonok is a helyükön maradtak*
+
+
+**Elérhetőség reszponzivitása reszponzivitása mobilon:**
+
+
+![Elérhetőség reszponzivitása mobilon](/Images/Connect3.png "Elérhetőség reszponzivitása mobilon")
+
+*Mobil kijelzőn is remekül lehet olvasni az elérehetőségek részt. Az információ egymás alé került, az ikonok is a helyükön vannak. A szöveg megfelelő távolságot tart a képernyő szélétől és az alatta vagy éppen a fölötte lévő szövegektől is.*
 
 
