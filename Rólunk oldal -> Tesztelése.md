@@ -474,6 +474,7 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 
 ![Elválasztó vonal reszponzivitása mobilon](/Images/Line3.png "Elválasztó vonal reszponzivitása mobilon")
 
+
 *A vonal mobil kijelzőn is szépen látható, itt is tartja az ablak szélességet. Az alatta és a felette lévő részek közötti távolság nyilván csökkent, de így is átlátható és kivehető minden információ az oldalról.*
 
 
@@ -486,10 +487,10 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 **Elérhetőség reszponzivitása 1920px szélesség esetén:**
 
 
-![Elérhetőség reszponzivitása 1920px](/Images/Connect1.png "Elérhetőség vonal reszponzivitása 1920px")
+![Elérhetőség reszponzivitása 1920px](/Images/Connect1.png "Elérhetőség reszponzivitása 1920px")
 
 
-*Az úgynevezett "lábrész" három részből áll, az elérehetőség az első része, azaz a bal oldai. A nagyobb képernyő méreteknél ez a hérom rész egymás mellett helyezkedik el, de kisebb részeknál már oszlopszerűen láthatjuk, a jobb olvashatóság kedvéért. Fontos, hogy az ikonok mindig a szövegek lőtt álljanak, ne csússzanak vagy mozogjanak el.*
+*Az úgynevezett "lábrész" három részből áll, az elérehetőség az első része, azaz a bal oldai. A nagyobb képernyő méreteknél ez a három rész egymás mellett helyezkedik el, de kisebb részeknál már oszlopszerűen láthatjuk, a jobb olvashatóság kedvéért. Fontos, hogy az ikonok mindig a szövegek előtt álljanak, ne csússzanak vagy mozogjanak el.*
 
 
 
@@ -507,6 +508,47 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 
 ![Elérhetőség reszponzivitása mobilon](/Images/Connect3.png "Elérhetőség reszponzivitása mobilon")
 
-*Mobil kijelzőn is remekül lehet olvasni az elérehetőségek részt. Az információ egymás alé került, az ikonok is a helyükön vannak. A szöveg megfelelő távolságot tart a képernyő szélétől és az alatta vagy éppen a fölötte lévő szövegektől is.*
+
+*Mobil kijelzőn is remekül lehet olvasni az elérehetőségek részt. Az információ egymás alá került, az ikonok is a helyükön vannak. A szöveg megfelelő távolságot tart a képernyő szélétől és az alatta vagy éppen a fölötte lévő szövegektől is.*
+
+
+
+> ### **10. Fedezze fel a szolgáltatásainkat tesztelése** 
+>    * Cím és a szöveg, valamint az egész blokk helyzetének az igazodása. Minden esetben cím, bekezdés, és alatta pedig a gombot kell látnunk oszlopszerűen. Ellenőrizzük a "oszlop" minden elemének reszponzivitását. A gomb stílusának helyessége minden esetben és a helyes oldara továbbításának az ellenőrzése.
+
+
+
+**Fedezze fel a szolgáltatásainkat reszponzivitása 1920px szélesség esetén:**
+
+
+![Fedezze fel a szolgáltatásainkat reszponzivitása 1920px](/Images/Services1.png "Fedezze fel a szolgáltatásainkat reszponzivitása 1920px")
+
+
+*Az úgynevezett "lábrész" három részből áll, a fedezze fel a szolgáltatásainkat a második része, azaz a középső. A nagyobb képernyő méreteknél ez a három rész egymás mellett helyezkedik el, de kisebb részeknál már oszlopszerűen láthatjuk, a jobb olvashatóság kedvéért. Fontos, hogy a középső részben a szöveg olvastó legyen, és ne lógjon túl vagy bele más részekbe, illetve a gomb is a megfelelő oldalra irányítson minket. A gomb animálva van, ha rávisszük az egeret, akkor kicsit összébb megy és egy fehér "keret" (alul és felül egy vonal) jelenik meg rajta.*
+
+
+
+**Fedezze fel a szolgáltatásainkat reszponzivitása 960px szélesség esetén:**
+
+
+![Fedezze fel a szolgáltatásainkat reszponzivitása 960px](/Images/Services2.png "Fedezze fel a szolgáltatásainkat reszponzivitása 960px")
+
+
+*Itt már életbe lép az oszlopos felállás. A fedezze fel a szolgáltatásainkat került középre, hiszen ez volt a középső a sorban. Ebben a helyzetben a cím, a szöveg és a gomb is megfelelő távolságra vannak egymástól és persze a kpernyő szélétől is. Ebben a helyzetben középre vannak helyzve, így stílusosabb az oldal.
+
+
+**Fedezze fel a szolgáltatásainkat reszponzivitása reszponzivitása mobilon:**
+
+
+![Fedezze fel a szolgáltatásainkat reszponzivitása mobilon](/Images/Services3.png "Fedezze fel a szolgáltatásainkat reszponzivitása mobilon")
+
+
+*Mobil kijelzőn is remekül lehet olvasni a fedezze fel a szolgáltatásainkat részt. A szöveg megfelelő távolságot tart a gombtól és a címtől. Az oldal ezen része sem takar vagy torzít bele más részekbe, tehát a reszponzivtás itt is sikerült.*
+
+
+**Fedezze fel a szolgáltatásainkat rész gomb animációja:**
+
+
+![Fedezze fel a szolgáltatásainkat gomb animációja](/Images/Services4.png "Fedezze fel a szolgáltatásainkat gomb animációja")
 
 
