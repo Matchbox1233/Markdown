@@ -534,7 +534,7 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![Fedezze fel a szolgáltatásainkat reszponzivitása 960px](/Images/Services2.png "Fedezze fel a szolgáltatásainkat reszponzivitása 960px")
 
 
-*Itt már életbe lép az oszlopos felállás. A fedezze fel a szolgáltatásainkat került középre, hiszen ez volt a középső a sorban. Ebben a helyzetben a cím, a szöveg és a gomb is megfelelő távolságra vannak egymástól és persze a kpernyő szélétől is. Ebben a helyzetben középre vannak helyzve, így stílusosabb az oldal.
+*Itt már életbe lép az oszlopos felállás. A fedezze fel a szolgáltatásainkat került középre, hiszen ez volt a középső a sorban. Ebben a helyzetben a cím, a szöveg és a gomb is megfelelő távolságra vannak egymástól és persze a kpernyő szélétől is. Ebben a helyzetben középre vannak helyzve, így stílusosabb az oldal.*
 
 
 **Fedezze fel a szolgáltatásainkat reszponzivitása reszponzivitása mobilon:**
