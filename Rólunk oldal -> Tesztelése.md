@@ -372,7 +372,7 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![Bekezdés címek reszponzivitása 1920px](/Images/TextT1.png "Bekezdés címek reszponzivitása 1920px")
 
 
-*Jól látható, hogy a szövegnek bőven van elég hely, könnyen olvasható, Szépen igazodik a kör alakú képekhez, tartja a távolságot tőlük. Ez igaz a címre is.**
+*Jól látható, hogy a címnek bőven van elég hely, könnyen olvasható, Szépen igazodik a kör alakú képekhez, tartja a távolságot tőlük.*
 
 
 **Bekezdés címek reszponzivitása 960px szélesség esetén:**
@@ -381,7 +381,7 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![Bekezdés címek reszponzivitása 960px](/Images/TextT2.png "Bekezdés címek reszponzivitása 960px")
 
 
-*Itt a szöveg már jól kitölti a teret, de az oldal még mindig elég szellős, átlátható. A betűméretek nem változtak.*
+*Itt a cím már közelebb kerül a képekhez. A cím alkalmazkodik a mérethez, nem lóg bele a képekbe vagy a szövegbe.*
 
 
 **Bekezdés címek reszponzivitása reszponzivitása mobilon:**
@@ -390,8 +390,17 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![Bekezdés címek reszponzivitása mobilon](/Images/TextT3.png "Bekezdés címek reszponzivitása mobilon")
 
 
-*A szöveg kitölti a teret, mint egy hosszú egybefuggő csíkot képez, de ez a mobiloknál nem meglepő, hiszen így marad olvasható az oldal. Ebben az esetben a képek a címek elé,. illetve a szövegek után kerülnek elhelyezésre*
+*A címeket szépen eltördeltük, így olvashatóak, nem lógnak ki a képernyőről, valamint a szöveget illetve a képeket se tolja el.*
 
+
+
+
+> ### **7. Bekezdések tesztelése** 
+>    * Megnézzük a bekezdések reszponzivitását. Az ablak méretének csökkenésével tudjuk ellenőrizni, hogy adott méretekben, a szöveg nem lóg e bele a képekbe, valamint helyesen lesz e törrdelve.
+  
+  
+  
+*A szöveg kitölti a teret, mint egy hosszú egybefuggő csíkot képez, de ez a mobiloknál nem meglepő, hiszen így marad olvasható az oldal. Ebben az esetben a képek a címek elé,. illetve a szövegek után kerülnek elhelyezésre*  
 
 
 
