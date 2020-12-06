@@ -66,7 +66,7 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![A fejléc reszponzivitása 1920px](/Images/Fejlec3.png "A fejléc reszponzivitása 1920px")
 
 
-*Láthatjuk, hogy a menüsor teljesen használható, nem csúszik el, nem megy össze. Pontosan a helyén marad.*
+*Láthatjuk, hogy a fejléc teljesen használható, minden rendezetten megtalálható rajta. A bal felső sarokban a logo, a jobb oldalon felül a navigációs gombok és a háttérkép is, valamint a cím.*
 
 
 **A fejléc reszponzivitása 960px szélesség esetén:**
@@ -75,8 +75,7 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![A fejléc reszponzivitása 960px](/Images/Fejlec4.png "A fejléc reszponzivitása 960px")
 
 
-*Láthatjuk, hogy a navigációs sor eltűnt és csak egy gomb van a helyén (első kép). A gomb nyomása esetén bal oldalt felbukkan a menüsor (második kép) csak most már oszlopos alakban, nem pedig sorban. Ezzel a módszerrel könnyen alkalmazkodhatunk különböző kijelzőkhöz is, mint például a mobil kijelzők. Ebben az esetben is érvényesül, hogy a menüsor minden pontja látszik, de ha rávisszük az egyik pontra az egeret, akkor az adott pont kiemelkedik, létrejön az animáció. A többi gomb pedig addig elhalványul.*
-
+*Láthatjuk, hogy a navigációs sor eltűnt és csak egy gomb van a helyén (első kép). A gomb nyomása esetén bal oldalt felbukkan a menüsor (második kép) csak most már oszlopos alakban, nem pedig sorban. Ezzel a módszerrel könnyen alkalmazkodhatunk különböző kijelzőkhöz is, mint például a mobil kijelzők. Ebben az esetben is érvényesül, hogy a menüsor minden pontja látszik, de ha rávisszük az egyik pontra az egeret, akkor az adott pont kiemelkedik, létrejön az animáció. A többi gomb pedig addig elhalványul. A háttér és a cím is arányosan kisebb lett.*
 
 **A fejléc reszponzivitása mobilon:**
 
@@ -84,5 +83,39 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![A fejléc reszponzivitása mobilon](/Images/Fejlec5.png "A fejléc reszponzivitása mobilon")
 
 
-*Ebben az esetben is látszik, hogy a bal oldalon az oszlopos elrendezésben vannak a menüpontok. Ezt a módszert alkalmaztuk az 1200px vagy attól kisebb szélességű kijelzők esetén.*
+*Ebben az esetben is látszik, hogy a bal oldalon az oszlopos elrendezésben vannak a menüpontok. Ezt a módszert alkalmaztuk az 1200px vagy attól kisebb szélességű kijelzők esetén., a cím is és a háttér is jól látható.*
+
+
+> ### **2. Fő rész tesztelés**
+>     * A háttér, illetve a rajta lévő box helyzetének a változása. A gombok, választható opciók működése. A linkek és a felugró ablakok helyzete minden méret esetén. A gombok aktivitása kattintás esetén.
+
+
+**A fő rész reszponzivitása 1920px szélesség esetén:**
+
+
+![A fő rész reszponzivitása 1920px](/Images/Main1.png "A fő rész reszponzivitása 1920px")
+
+
+*Láthatjuk, a fő részben helyezkedik el maga a fitt "generátor rész". Itt a háttéren található egy szürke alap és azon vannak a gombok, a választható opciók. A gombokon egyszerű animálást alkalmaztunk. Az oldal elrendezése mindig fix, a tovább és a vissza gomb alul helyezkedik el, a többi gomb és lehetőség, valamint felirat a szükre négyzeten belül.*
+
+
+**A fő rész reszponzivitása 960px szélesség esetén:**
+
+
+![A fő rész reszponzivitása 960px](/Images/Main2.png "A fő rész reszponzivitása 960px")
+
+
+*A fenti képen látszik, hogy az oldal minden része arányosan lecsökken, így a reszponzivitás sikerül.*
+
+**A fő rész reszponzivitása mobilon:**
+
+![A fő rész reszponzivitása mobilon](/Images/Main3.png "A fő rész reszponzivitása mobilon")
+
+
+*A mobil verzión is láthatjuk, hogy az oldal aráynosan ment össze, így a háttér, a gombok, a címek is jólláthatóak és értelmezhetőek. 
+
+**A fő rész aktív kurzor esetén:**
+![A fejléc állpota aktív kurzor esetén](/Images/Main4.png "A fejléc állpota aktív kurzor esetén")
+
+
 
