@@ -96,7 +96,7 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![A fő rész reszponzivitása 1920px](/Images/Main1.png "A fő rész reszponzivitása 1920px")
 
 
-*Láthatjuk, a fő részben helyezkedik el maga a fitt "generátor rész". Itt a háttéren található egy szürke alap és azon vannak a gombok, a választható opciók. A gombokon egyszerű animálást alkalmaztunk. Az oldal elrendezése mindig fix, a tovább és a vissza gomb alul helyezkedik el, a többi gomb és lehetőség, valamint felirat a szükre négyzeten belül.*
+*Láthatjuk, a fő részben helyezkedik el maga a fitt "generátor rész". Itt a háttéren található egy szürke alap és azon vannak a gombok, a választható opciók. A gombokon egyszerű animálást alkalmaztunk. Az oldal elrendezése mindig fix, a tovább és a vissza gomb alul helyezkedik el, a többi gomb és lehetőség, valamint felirat a szükre négyzeten belül. Összesen 14 oldalt tartalmaz a közpéső rész, ezek között a vissza és a tovább gombbal lehet navigálni.*
 
 
 **A fő rész reszponzivitása 960px szélesség esetén:**
@@ -151,5 +151,15 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![A lábrész állpota aktív kurzor esetén](/Images/Labresz4.png "A lábrész állpota aktív kurzor esetén")
 
 
+## 3. Eredmények értékelése
+
+Az SZFM weboldal Fitt oldal című oldalához sikerült végehez vinni a célokat: 
+
+* Az oldal reszponzív lett minden készülékre.
+* Az animációk és az elredezés is megmaradt minden méretben.
+* A háttérképek és a borító kép is teljesen reszponzív lett.
+* Az oldal fő részében tudunk lapozni az oldalak között.
+* Egyszerre több választ is megadhatunk néhány esetben.
+* Nem sikerült az első és az utolsó oldal meghatározása.
 
 
