@@ -112,7 +112,7 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![A fő rész reszponzivitása mobilon](/Images/Main3.png "A fő rész reszponzivitása mobilon")
 
 
-*A mobil verzión is láthatjuk, hogy az oldal aráynosan ment össze, így a háttér, a gombok, a címek is jólláthatóak és értelmezhetőek. 
+*A mobil verzión is láthatjuk, hogy az oldal aráynosan ment össze, így a háttér, a gombok, a címek is jólláthatóak és értelmezhetőek.* 
 
 **A fő rész aktív kurzor esetén:**
 ![A fejléc állpota aktív kurzor esetén](/Images/Main4.png "A fejléc állpota aktív kurzor esetén")
