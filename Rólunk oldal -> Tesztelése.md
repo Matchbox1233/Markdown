@@ -700,7 +700,11 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 *A mobil verzión is jól láthatóak a gombok, nem csúsznak el, illetve még mindig középen helyezkednek el.*
 
 
-
-
 ## 3. Eredmények értékelése
+
+Az SZFM weboldal Rólunk című oldalának sikerült végehze vinni a célokat: 
+
+* Az oldal reszponzív lett minden készülékre.
+* Az animációk és az elredezés is megmaradt minden méretben.
+* A képek és a borító kép is teljesen reszponzív lett.
 
