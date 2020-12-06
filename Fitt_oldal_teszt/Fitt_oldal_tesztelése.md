@@ -118,4 +118,38 @@ eltérés. De amikor rávisszük az egeret valamelyik menüpontra, akkor az kiem
 ![A fejléc állpota aktív kurzor esetén](/Images/Main4.png "A fejléc állpota aktív kurzor esetén")
 
 
+> ### **3. Lábrész tesztelés**
+>    * A három oszlopos tagolás, a mezők helyzetet illetve a közzössségi oldalra vezető linkek helyzete és rezspozivitása, valamint ezek animációi minden méretben.
+
+
+**A lábrész reszponzivitása 1920px szélesség esetén:**
+
+
+![A lábrész reszponzivitása 1920px](/Images/Labresz1.png "A lábrész reszponzivitása 1920px")
+
+
+*A weboldal alsó része 3 oszolopra van tagolva. Itt található az Elérehetőségek, a Rólunk és a Lépjen velünk kapcsolatba rész, ezek alatt a közösségi médiához összekötő linkek. A szöveges mezők, a gombok, és a közössségi média linkjei is animálva vannak.*
+
+
+**A lábrész reszponzivitása 960px szélesség esetén:**
+
+
+![A lábrész reszponzivitása 960px](/Images/Labresz2.png "A lábrész reszponzivitása 960px")
+
+
+*Ebben a méretben már láthatjuk, hogy a három oszlopos tagolás eltűnt és a három rész egymás alá kerül, így biztosítjuk az oldal reszponzivitását. A mezők így jól láthatóak, a felhasználó számára könnyen elérehtőek. Nem csúsznak szét, tartják a helyüket.*
+
+**A lábrész reszponzivitása mobilon:**
+
+
+![A lábrész reszponzivitása mobilon](/Images/Labresz3.png "A lábrész reszponzivitása mobilon")
+
+
+*A mobil méretben is megmaradt az egyoszlopos tagolás. A betűméretek, a szövegek, a gombok és a szövegmezők is alkalmazkodtak a kis mérethez, sikerült a reszponzivitást megalkotni.*
+
+**A lábrész aktív kurzor esetén:**
+![A lábrész állpota aktív kurzor esetén](/Images/Labresz4.png "A lábrész állpota aktív kurzor esetén")
+
+
+
 
